@@ -1,0 +1,18 @@
+# Python / Jupyter
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Office temp files (created while a doc or deck is open)
+~$*
+
+# OS clutter
+.DS_Store
+Thumbs.db
+
+# Old versions kept until the project is graded
+_old/
+
+# Working notes (delete these lines if you want them in the repo)
+DATA 202 Project notes.docx
+DATA 202 Project Plan*.docx

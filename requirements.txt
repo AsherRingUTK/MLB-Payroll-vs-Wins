@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+scipy
+statsmodels
+requests
+beautifulsoup4
+lxml
+pybaseball
+ipykernel
