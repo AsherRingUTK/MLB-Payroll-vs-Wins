@@ -1,6 +1,6 @@
 # Does Payroll Buy Wins? MLB 2026 Payroll, Wins & a Salary Cap
 
-**DATA 202 Final Project** · Asher Ring & Elliot Asquith
+Project by Asher Ring & Elliot Asquith
 
 ## The Question
 
