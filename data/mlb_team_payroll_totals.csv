@@ -1,0 +1,31 @@
+rank,team,team_name,record,wins,losses,win_pct,avg_age,total_payroll,active_payroll,injured_payroll,suspended_payroll,personal_leave_payroll,minor_league_payroll,dead_money,retained_payroll,team_cap_page_url
+1,NYM,New York Mets,74-88,74,88,0.457,28.0,345165305,223810168,23291093,0,0,3272458,66041586,28750000,https://www.spotrac.com/redirect/team/48/cap/2026
+2,LAD,Los Angeles Dodgers,100-62,100,62,0.617,30.4,339319244,304389785,21040000,0,0,9823331,4066128,0,https://www.spotrac.com/redirect/team/59/cap/2026
+3,NYY,New York Yankees,93-68,93,68,0.578,30.0,306689555,223814991,47640078,0,0,4966471,30268015,0,https://www.spotrac.com/redirect/team/34/cap/2026
+4,PHI,Philadelphia Phillies,88-74,88,74,0.543,30.0,291951676,225762422,19826786,0,0,4399092,41963376,0,https://www.spotrac.com/redirect/team/49/cap/2026
+5,TOR,Toronto Blue Jays,79-83,79,83,0.488,28.1,275309179,130236396,87264683,0,0,10432963,47375137,0,https://www.spotrac.com/redirect/team/36/cap/2026
+6,ATL,Atlanta Braves,94-68,94,68,0.58,30.0,263462438,185876679,50632660,0,0,5324774,21628325,0,https://www.spotrac.com/redirect/team/46/cap/2026
+7,CHC,Chicago Cubs,89-73,89,73,0.549,30.1,250319956,189299058,23409386,0,4450000,4304874,26356638,2500000,https://www.spotrac.com/redirect/team/51/cap/2026
+8,HOU,Houston Astros,81-81,81,81,0.5,28.3,239838783,161240759,55842599,0,0,4896514,17858911,0,https://www.spotrac.com/redirect/team/53/cap/2026
+9,SD,San Diego Padres,91-71,91,71,0.562,29.2,218252715,187148204,12831889,1000000,0,6100847,11171775,0,https://www.spotrac.com/redirect/team/123/cap/2026
+10,BOS,Boston Red Sox,87-75,87,75,0.537,28.9,207988016,132880051,53080355,0,0,4781502,15246108,2000000,https://www.spotrac.com/redirect/team/33/cap/2026
+11,DET,Detroit Tigers,76-86,76,86,0.469,28.1,202081991,135915529,29584957,0,0,3830819,32750686,0,https://www.spotrac.com/redirect/team/39/cap/2026
+12,ARI,Arizona Diamondbacks,86-76,86,76,0.531,28.7,192670027,125137132,44066495,0,0,3683820,19782580,0,https://www.spotrac.com/redirect/team/57/cap/2026
+13,TEX,Texas Rangers,80-82,80,82,0.494,29.4,191262798,144466095,34077296,0,0,3169765,9549642,0,https://www.spotrac.com/redirect/team/45/cap/2026
+14,SF,San Francisco Giants,65-97,65,97,0.401,26.4,190174131,10792173,133987260,0,0,1511263,43883435,0,https://www.spotrac.com/redirect/team/61/cap/2026
+15,LAA,Los Angeles Angels,62-100,62,100,0.383,27.5,182509023,86653655,54095216,0,0,1752360,40007792,0,https://www.spotrac.com/redirect/team/42/cap/2026
+16,SEA,Seattle Mariners,76-86,76,86,0.469,27.9,170071014,112947141,24192356,0,0,3277158,29654359,0,https://www.spotrac.com/redirect/team/44/cap/2026
+17,BAL,Baltimore Orioles,79-82,79,82,0.491,28.5,167039211,80314072,59614656,0,0,4540241,22570242,0,https://www.spotrac.com/redirect/team/32/cap/2026
+18,KC,Kansas City Royals,69-93,69,93,0.426,29.7,149648742,90399642,28032981,705988,1402814,9199521,19907796,0,https://www.spotrac.com/redirect/team/40/cap/2026
+19,MIL,Milwaukee Brewers,103-59,103,59,0.636,27.3,145943020,82712439,32900815,0,0,4350934,25978832,0,https://www.spotrac.com/redirect/team/54/cap/2026
+20,CIN,Cincinnati Reds,75-87,75,87,0.463,27.9,127442248,82067592,16165198,0,0,7504320,21705138,0,https://www.spotrac.com/redirect/team/52/cap/2026
+21,COL,Colorado Rockies,58-104,58,104,0.358,28.0,120746751,52415516,36272309,0,0,5215082,21843844,5000000,https://www.spotrac.com/redirect/team/58/cap/2026
+22,MIN,Minnesota Twins,77-85,77,85,0.475,27.6,115748036,47861418,49502386,0,0,4726908,2323991,11333333,https://www.spotrac.com/redirect/team/41/cap/2026
+23,PIT,Pittsburgh Pirates,82-80,82,80,0.506,27.6,106728501,66654807,19480189,0,0,2400111,18193394,0,https://www.spotrac.com/redirect/team/55/cap/2026
+24,CHW,Chicago White Sox,84-78,84,78,0.519,27.8,103330141,67869549,13211407,0,0,3564227,18684958,0,https://www.spotrac.com/redirect/team/37/cap/2026
+25,WSH,Washington Nationals,77-85,77,85,0.475,25.8,101639888,26615458,3942126,0,0,6439137,31243167,33400000,https://www.spotrac.com/redirect/team/50/cap/2026
+26,ATH,Athletics,64-98,64,98,0.395,28.0,98948812,40840882,43693070,0,0,2579733,11835127,0,https://www.spotrac.com/redirect/team/1043/cap/2026
+27,TB,Tampa Bay Rays,98-64,98,64,0.605,29.3,95615469,65270801,17004400,454545,0,3678167,7207556,2000000,https://www.spotrac.com/redirect/team/35/cap/2026
+28,STL,St. Louis Cardinals,77-85,77,85,0.475,26.4,94817098,26645965,1848612,0,0,2606115,19318187,44398219,https://www.spotrac.com/redirect/team/56/cap/2026
+29,MIA,Miami Marlins,80-82,80,82,0.494,26.4,83298123,34042136,21837920,0,0,550672,26867395,0,https://www.spotrac.com/redirect/team/129/cap/2026
+30,CLE,Cleveland Guardians,85-77,85,77,0.525,27.7,72846014,55130012,3900000,400000,0,7271240,6144762,0,https://www.spotrac.com/redirect/team/969/cap/2026
